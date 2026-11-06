@@ -3,7 +3,7 @@
 Computational material for the paper
 
 > E. Martínez-Moro and M. de los Ríos de Antonio,
-> *Quantum synchronizable codes, polynomial and quasi-polynomial shifts* (in preparation).
+> *Quantum synchronizable codes, polynomial and quasi-polynomial shifts*.
 
 The paper extends Fujiwara's construction of quantum synchronizable codes (QSCs) from cyclic
 codes to constacyclic, polycyclic and quasi-polycyclic codes. This repository holds the searches
